@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="826c24cf-8df1-43c5-87f6-f1cca837bfa3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Maven\apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j7rpomS3eruNfwCDG3tYRArljI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/EurekaMain7002.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="profiler.calltree.filter" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/EurekaMain7002.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="springcloud" />
+      <recent name="com.veigar.springcloud.entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpaceForIDEA\IDEA-SPING-CLOUD-SPACE\cloud-provider-payment8002\src\main\resources" />
+      <recent name="E:\WorkSpaceForIDEA\IDEA-SPING-CLOUD-SPACE\cloud-provider-payment8002\src\main\java" />
+      <recent name="E:\WorkSpaceForIDEA\IDEA-SPING-CLOUD-SPACE\cloud-eureka-server7002\src\main\resources" />
+      <recent name="E:\WorkSpaceForIDEA\IDEA-SPING-CLOUD-SPACE" />
+      <recent name="E:\WorkSpaceForIDEA\IDEA-SPING-CLOUD-SPACE\cloud-api-commons\src\main\java\com\veigar\springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaMain7002">
+    <configuration name="ConsumerMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.veigar.springcloud.ConsumerMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.veigar.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.veigar.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.veigar.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.ConsumerMain80" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaMain7002" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.ConsumerMain80" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="826c24cf-8df1-43c5-87f6-f1cca837bfa3" name="Default Changelist" comment="" />
+      <created>1603166159463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603166159463</updated>
+      <workItem from="1603166160596" duration="11638000" />
+      <workItem from="1603245046567" duration="7767000" />
+      <workItem from="1603261565949" duration="11507000" />
+      <workItem from="1603291600993" duration="3725000" />
+      <workItem from="1603295378844" duration="299000" />
+      <workItem from="1603332629331" duration="5795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1603293705048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603176539301" />
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1603293705048" />
+    <state x="346" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603263567645">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603263567645" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1603188909233">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603188909233" />
+    <state x="366" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603263781179">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603263781179" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603263860789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603263860789" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1603295170566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1603295170566" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603294363819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603166383606" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603294363819" />
+    <state width="845" height="197" key="GridCell.Tab.0.bottom" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.0.center" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.0.center/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.0.left" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.0.left/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.0.right" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.0.right/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.1.bottom" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.1.center" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.1.center/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.1.left" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.1.left/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state width="845" height="197" key="GridCell.Tab.1.right" timestamp="1603346680711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="197" key="GridCell.Tab.1.right/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603346680711" />
+    <state x="293" y="63" width="825" height="467" key="Registry" timestamp="1603261455877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="293" y="63" width="825" height="467" key="Registry/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603261455877" />
+    <state x="2011" y="238" width="1147" height="708" key="SettingsEditor" timestamp="1603267947563">
+      <screen x="1920" y="110" width="1600" height="860" />
+    </state>
+    <state x="2011" y="238" width="1147" height="708" key="SettingsEditor/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603267947563" />
+    <state x="394" y="168" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603264638318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="168" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603264638318" />
+    <state x="-2" y="37" width="1224" height="589" key="new project wizard" timestamp="1603294058004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="35" y="2" key="new project wizard/0.0.1280.680/1920.110.1600.860@0.0.1280.680" timestamp="1603267812895" />
+    <state x="-2" y="37" width="1224" height="589" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603294058004" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603294197337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603294197337" />
+  </component>
+</project>
