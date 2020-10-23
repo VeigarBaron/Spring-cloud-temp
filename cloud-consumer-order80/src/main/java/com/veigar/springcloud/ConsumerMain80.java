@@ -2,7 +2,7 @@ package com.veigar.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @author VeigarBaron
@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @Description *
  */
 @SpringBootApplication
-@EnableEurekaServer
+@EnableEurekaClient
 public class ConsumerMain80 {
     public static void main(String[] args) {
         SpringApplication.run(ConsumerMain80.class, args);

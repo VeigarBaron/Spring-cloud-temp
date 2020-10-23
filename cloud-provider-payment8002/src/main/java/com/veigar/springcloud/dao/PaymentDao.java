@@ -1,4 +1,4 @@
-package springcloud.dao;
+package com.veigar.springcloud.dao;
 
 import com.veigar.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Mapper;

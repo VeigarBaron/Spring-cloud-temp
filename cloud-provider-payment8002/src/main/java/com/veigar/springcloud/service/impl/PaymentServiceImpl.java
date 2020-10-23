@@ -1,4 +1,4 @@
-package springcloud.service.impl;
+package com.veigar.springcloud.service.impl;
 
 import com.veigar.springcloud.dao.PaymentDao;
 import com.veigar.springcloud.entities.Payment;

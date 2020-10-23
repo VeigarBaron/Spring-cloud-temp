@@ -1,4 +1,4 @@
-package springcloud.service;
+package com.veigar.springcloud.service;
 
 import com.veigar.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;

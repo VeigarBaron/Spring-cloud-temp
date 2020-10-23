@@ -16,12 +16,15 @@ spring:
 eureka:
   instance:
     instance-id: payment8001
+    prefer-ip-address: true
+    lease-renewal-interval-in-seconds: 1    #客户端向服务端发送心跳的时间间隔
+    lease-expiration-duration-in-seconds: 2  #服务端向收到最后一次心跳的等待时间上限，超时则剔除服务
   client:
     register-with-eureka: true #向Eureka注册中心注册自己
     fetch-registry: true #是否从EurekaServer抓取自己的注册信息，默认为true，单点无所谓，集群必须为true才能配合ribbon进行负载均衡
     service-url:
       #设置与eureka server交互的地址查询服务和注册服务都需要依赖这个地址
-      defaultZone: http://localhost:7001/eureka/, http://localhost:7002/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/, http://eureka7002.com:7002/eureka/
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
