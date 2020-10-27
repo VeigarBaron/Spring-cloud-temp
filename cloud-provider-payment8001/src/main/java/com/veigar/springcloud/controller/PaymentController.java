@@ -1,6 +1,5 @@
 package com.veigar.springcloud.controller;
 
-import com.sun.javafx.collections.ListListenerHelper;
 import com.veigar.springcloud.entities.CommonResult;
 import com.veigar.springcloud.entities.Payment;
 import com.veigar.springcloud.service.PaymentService;
@@ -8,9 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.web.bind.annotation.*;
-import org.w3c.dom.stylesheets.LinkStyle;
 
 import javax.annotation.Resource;
 import java.util.List;
